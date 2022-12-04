@@ -35,5 +35,3 @@ Currently, I'm pursuing my 4th year with mentorship experience at Micosoft in wh
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayanksamadhiya12345&show_icons=true&locale=en&layout=compact" alt="mayanksamadhiya12345" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayanksamadhiya12345&show_icons=true&locale=en" alt="mayanksamadhiya12345" /></p>
-
-
