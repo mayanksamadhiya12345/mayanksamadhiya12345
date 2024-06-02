@@ -19,7 +19,7 @@ Currently, I'm pursuing my 4th year with mentorship experience at Micosoft in wh
 
 - 💬 possess good knowledge in Data Structures and Algorithms, Computer Networks, Operating systems, DBMS.
 
-- [📄 Here is my resume](https://drive.google.com/file/d/13QRU5hXKAA3UEmGAfPo_LkJgnHl0sFuF/view?usp=sharing)
+- [📄 Here is my resume](https://drive.google.com/file/d/17AMPpKWpk6L2qJBdi8ytNNIU1biQ6NoQ/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
