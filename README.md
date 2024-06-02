@@ -5,7 +5,7 @@
 
 Hello 👋🏻, I'm Mayank Samadhiya, 2019 batch Undergraduate student, focused in Computer Science from VIT Bhoapl University (8.89 CGPA). Who is interested in Software Development and Web Development.
 
-Currently, I'm pursuing my 4th year with mentorship experience at Micosoft in which I worked on several Domains : Machine Learning, MySQL Dtaabase and Web Development 👨🏻‍💻 .I am having good knowledge in Data structures and algorithms using C++, Computer networks, operating systems, DBMS and OOPS. <br> <br>
+Currently, I'm pursuing my 5th year with mentorship experience at Micosoft in which I worked on several Domains : Machine Learning, MySQL Dtaabase and Web Development 👨🏻‍💻 .I am having good knowledge in Data structures and algorithms using C++, Computer networks, operating systems, DBMS and OOPS. <br> <br>
 
 
 
